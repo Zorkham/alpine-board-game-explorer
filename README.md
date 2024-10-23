@@ -11,7 +11,7 @@ Alpine Board Game Explorer is a simple web application that lets you explore boa
 - **Search:** Search for board games by name.
 - **Sort:** Sort board games according to criteria such as complexity and rating.
 - **View Details:** View details of a board game such as its name, image, description, complexity, rating, and number of players.
-- **Local Storage:**  and search query are stored in the local storage.
+- **Local Storage:** Filters and search query are stored in the local storage.
 - **Responsive Design**: The application is responsive and works on all devices.
 
 ## Tech Stack
